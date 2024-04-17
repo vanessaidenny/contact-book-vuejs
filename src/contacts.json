@@ -1,0 +1,74 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@doe.com",
+      "phone": 1234567890
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane@smith.com",
+      "phone": 9876543210
+    },
+    {
+      "id": 3,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice@johnson.com",
+      "phone": 5558592323
+    },
+    {
+      "id": 4,
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "email": "michael@brown.com",
+      "phone": 1112223333
+    },
+    {
+      "id": 5,
+      "firstName": "Emily",
+      "lastName": "Williams",
+      "email": "emily@williams.com",
+      "phone": 4445556666
+    },
+    {
+      "id": 6,
+      "firstName": "David",
+      "lastName": "Jones",
+      "email": "david@jones.com",
+      "phone": 7778889999
+    },
+    {
+      "id": 7,
+      "firstName": "Sarah",
+      "lastName": "Taylor",
+      "email": "sarah@taylor.com",
+      "phone": 1212123434
+    },
+    {
+      "id": 8,
+      "firstName": "Matthew",
+      "lastName": "Wilson",
+      "email": "matthew@wilson.com",
+      "phone": 9898787878
+    },
+    {
+      "id": 9,
+      "firstName": "Olivia",
+      "lastName": "Davis",
+      "email": "olivia@davis.com",
+      "phone": 2323234343
+    },
+    {
+      "id": 10,
+      "firstName": "Daniel",
+      "lastName": "Miller",
+      "email": "daniel@miller.com",
+      "phone": 4545456767
+    }
+  ]
+}
